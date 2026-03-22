@@ -5,7 +5,7 @@ An AI-powered web application that classifies SMS/Email messages as **Spam 🚨*
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-app-name.streamlit.app
+🔗 https://hpd56qcy6ugqsrndacpvfu.streamlit.app/
 
 ---
 
